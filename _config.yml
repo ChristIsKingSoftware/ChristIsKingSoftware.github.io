@@ -1,0 +1,5 @@
+# GitHub Pages (Jekyll) settings for christiskingsoftware.github.io (ADR-0036).
+# Seeded once by the Scraplings repo's publish-site.yml; edit it here freely.
+title: Christ Is King Software
+description: Small, fair mobile games.
+theme: jekyll-theme-primer
