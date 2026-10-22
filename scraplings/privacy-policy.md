@@ -8,7 +8,7 @@ permalink: /scraplings/privacy-policy/
 
 <!-- Source: the scraplings repo, docs/store/privacy-policy.md. CI publishes it (ADR-0036). It describes the ad-supported build (ADR-0028): Google AdMob, no purchases, no analytics. Update it, and the effective date, before purchases (Phase 18B) or analytics ship. It isn't legal advice. -->
 
-- **Effective date:** October 14, 2026
+- **Effective date:** October 21, 2026
 - **Developer:** Christ Is King Software
 - **Contact:** christiskingsoftware@gmail.com
 
@@ -23,9 +23,12 @@ The game saves your progress on your device:
 - upgrades;
 - unlocked weapons, cosmetics and checkpoints;
 - whether you've seen the tutorial hints;
-- when ads were last shown and which daily ad rewards you've claimed, so it can limit how often ads appear.
+- when ads were last shown and which daily ad rewards you've claimed, so it can limit how often ads appear;
+- a log of your last 50 runs (where each ended, how long it took, the weapon, and what it banked), shown in Settings under STATS.
 
 This file stays in the app's private storage on your device. It is never sent to us or to anyone else. Uninstalling the game or clearing its data deletes it.
+
+If you choose to, STATS can copy your run log to the clipboard so you can paste it into feedback to us. The game doesn't send it: only what you paste reaches us, and only through the feedback channel you use.
 
 ## Advertising (Google AdMob)
 
